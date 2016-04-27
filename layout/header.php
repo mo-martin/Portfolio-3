@@ -25,11 +25,12 @@
 	</div>
 <header role="banner" class="mainheader">
 	<nav class="mainnav" role="navigation">
-		<div class="navlogo">
-		<a href="index.php"><img src="images/whitelogo.png" alt="Davisbrook Ltd Housing Logo"/></a>
-		</div>
-		<button class="navtoggle">toggle</button>
-		<div class="responsivenav" id="navigation">
+			<div class="navlogo">
+			<a href="index.php"><img src="images/whitelogo.png" alt="Davisbrook Ltd Housing Logo"/></a>
+			</div>
+			<label for="show-menu" class="show-menu">Show Menu</label>
+			<input type="checkbox" id="show-menu" role="button">
+			<div class="responsivenav" id="navigation">
 				<ul class="mainlinks" id="skiptonav" role="menu">
 					<li role="menuitem"><a href="index.php">Home</a></li>
 					<li role="menuitem"><a href="about.php">About</a></li>
@@ -37,7 +38,7 @@
 					<li role="menuitem"><a href="blog.php">Blog</a></li>
 					<li role="menuitem"><a href="contact.php">Contact</a></li>
 				</ul>
-		</div>
-	</nav>
+			</div>
+		</nav>
 </header>
 	<main>
