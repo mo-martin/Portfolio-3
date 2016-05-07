@@ -5,8 +5,8 @@
 		<meta charset="utf-8">
 		<title><?php echo $title ?> Moses Martin | Web Developer | Manchester</title>
 		<meta name="description" content="<?php echo $desc ?> Moses Martin | Junior Web Developer in Manchester, UK.">
-		<meta name="viewport" content="width=device-width, Initial-scale=1">
 		<meta name="keywords" content="Website, Web, Developer, MMU, junior, Student, Moses, Mo, Martin, Contact, About, Manchester, Metropolitan, University, CV, Blog, Responsive, design, designer, HTML5, CSS3, PHP, MYSql, JS, Javascript, Jquery, Wordpress, SASS">
+		<meta name="viewport" content="width=device-width, Initial-scale=1">
 		<link href="images/favicon.ico" rel="shortcut Icon" type="image/x-icon" />
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/styles.css">
@@ -27,7 +27,7 @@
 	<div class="home-filter">
 		<nav class="mainnav" role="navigation">
 			<div class="navlogo">
-			<a href="index.php"><img src="images/whitelogo.png" alt="Davisbrook Ltd Housing Logo"/></a>
+			<a href="index.php"><img src="images/whitelogo.png" alt="Moses Martin Logo"/></a>
 			</div>
 			<label for="show-menu" class="show-menu">Show Menu</label>
 			<input type="checkbox" id="show-menu" role="button">
