@@ -25,20 +25,20 @@
 	</div>
 <header role="banner" class="mainheader">
 	<nav class="mainnav" role="navigation">
-			<div class="navlogo">
-			<a href="index.php"><img src="images/whitelogo.png" alt="Davisbrook Ltd Housing Logo"/></a>
-			</div>
-			<label for="show-menu" class="show-menu">Show Menu</label>
-			<input type="checkbox" id="show-menu" role="button">
-			<div class="responsivenav" id="navigation">
-				<ul class="mainlinks" id="skiptonav" role="menu">
-					<li role="menuitem"><a href="index.php">Home</a></li>
-					<li role="menuitem"><a href="about.php">About</a></li>
-					<li role="menuitem"><a href="portfolio.php">Portfolio</a></li>
-					<li role="menuitem"><a href="blog.php">Blog</a></li>
-					<li role="menuitem"><a href="contact.php">Contact</a></li>
-				</ul>
-			</div>
-		</nav>
+		<div class="navlogo">
+		<a href="index.php"><img src="images/whitelogo.png" alt="Moses Martin Logo"/></a>
+		</div>
+		<label for="show-menu" class="show-menu">Show Menu</label>
+		<input type="checkbox" id="show-menu" role="button">
+		<div class="responsivenav" id="navigation">
+			<ul class="mainlinks" id="skiptonav" role="menu">
+				<li role="menuitem"><a class="home" href="index.php"><span>Home</span></a></li>
+				<li role="menuitem"><a class="about" href="about.php"><span>About</span></a></li>
+				<li role="menuitem"><a class="portfolio" href="portfolio.php"><span>Portfolio</span></a></li>
+				<li role="menuitem"><a class="blog" href="blog.php"><span>Blog</span></a></li>
+				<li role="menuitem"><a class="contact" href="contact.php"><span>Contact</span></a></li>
+			</ul>
+		</div>
+	</nav>
 </header>
 	<main>
